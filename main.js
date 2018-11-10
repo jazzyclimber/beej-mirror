@@ -8,7 +8,7 @@ function createWindow () {
   mainWindow.show()//show mainWindow
 
   //open devTools
-  mainWindow.openDevTools()
+  // mainWindow.openDevTools()
 
 //load the index.html file into the window
   mainWindow.loadFile('index.html')

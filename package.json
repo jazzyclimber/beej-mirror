@@ -1,6 +1,6 @@
 {
   "name": "mirror",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Magic Mirror Build",
   "main": "main.js",
   "scripts": {
@@ -9,6 +9,11 @@
   "author": "jazzyclimber",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^3.0.5"
+    "electron": "^3.0.5",
+    "node.js": "latest"
+  },
+  "Dependencies": {
+    "electron": "^3.0.5",
+    "node.js": "latest"
   }
 }

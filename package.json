@@ -12,7 +12,7 @@
     "electron": "^3.0.5",
     "node.js": "latest"
   },
-  "Dependencies": {
+  "dependencies": {
     "electron": "^3.0.5",
     "node.js": "latest"
   }
